@@ -4,6 +4,8 @@
 
 	Usage: isFullScreen()
 	Return: True/False
+
+	GitHub Repo: https://github.com/Nigh/isFullScreen
 */
 class isFullScreen
 {
