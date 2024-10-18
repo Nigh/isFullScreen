@@ -1,4 +1,4 @@
-
+#Requires AutoHotkey >=v2.0 
 #include isFullScreen.ahk
 
 h2FontStyle:="s32 w600 cc07070 q5"

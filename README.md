@@ -2,7 +2,7 @@
 
 Checks if a window is in fullscreen mode.
 
-**Notice:** Only tested in `Autohotkey Version 2.0-beta.3`
+**Notice:** Tested in `Autohotkey Version 2.0.18`
 
 ## Usage
 
@@ -10,6 +10,10 @@ Checks if a window is in fullscreen mode.
 #include isFullScreen.ahk
 isFullScreen()
 ```
+
+## Example
+
+`demo.ahk` is a simple usage example. You can run it and then switch between fullscreen and non-fullscreen windows, and you can see the detection results in real time on the demo GUI.
 
 ## Demo Screenshot
 
